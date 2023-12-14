@@ -5,7 +5,7 @@
 - [Data Source](#data-source)
 - [Data Preparation and Cleaning Process](#data-preparation-and-cleaning-process)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Summary and Insights](#summary-and-insights)
+- [Recommedation](#recommendation)
 
 ## Introduction
   The records of selling the products have been listed to keep an eye on sale transactions. These 
@@ -50,4 +50,7 @@ columns. I performed such process like:
 - From 10am - 9pm of sales, the products ordered by the customers have a total quantity of at least 11,000 products. This could explain that the sales in that time span are very active.
 
 ## Recommendation
+- Promoting products and planning discounts especially on seasonal months like December.
+- Prioritize noon time sales to increase chance of gaining more customers.
+- Consider the success of the cities with high activity in sales like San Fransico and Los Angeles to take an opportunity of exploring new regions.
 
