@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Tools Used](#tools-used)
 - [Data Source](#data-source)
 - [Data Preparation and Cleaning Process](#data-preparation-and-cleaning-process)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -15,6 +16,9 @@ and address. These transactions contain sale from various cities in the United S
 In this project, I dove into analyzing the sales record from each month focusing only the sales in 
 2019. The process of analyzing rows of information will also undergo data cleaning and ensuring 
 the data integrity and quality.
+
+## Tools Used
+- Python (pandas, matplotlib)
 
 ## Data Source
   The datasets were downloaded on GitHub, which is a free source of finding datasets to collaborate 
@@ -53,4 +57,5 @@ columns. I performed such process like:
 - Promoting products and planning discounts especially on seasonal months like December.
 - Prioritize noon time sales to increase chance of gaining more customers.
 - Consider the success of the cities with high activity in sales like San Fransico and Los Angeles to take an opportunity of exploring new regions.
+
 
